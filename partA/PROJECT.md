@@ -1,7 +1,7 @@
 # Mini Library System — Project Overview
 
 ## Сонгосон сэдэв
-**Option 4: Mini Library** (Бие даалт 11-ийн өргөтгөл)
+**Option 4: Mini Library
 
 ## Зорилго
 Жижиг номын санд зориулсан удирдлагын систем. Ном бүртгэх, гишүүн бүртгэх, зээлэлт хянах үндсэн функцуудтай REST API + React frontend.

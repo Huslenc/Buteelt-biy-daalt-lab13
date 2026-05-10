@@ -8,7 +8,7 @@
 
 ## Session 1: Stack харьцуулалт
 
-**Би:** Mini library system хийхэд ямар stack тохиромжтой вэ? Node+Express+SQLite, Python+FastAPI+PostgreSQL, Bun+Hono+SQLite гэсэн 3-г харьцуул.
+**Би:**Би лаборатори 13д Mini library system хийхэд ямар stack тохиромжтой вэ? Node+Express+SQLite, Python+FastAPI+PostgreSQL, Bun+Hono+SQLite гэсэн 3-г харьцуулна.
 
 **Claude (товч):**
 - Node+Express+SQLite: AI tool дэмжлэг хамгийн өндөр, better-sqlite3 sync API-тай тул async complexity байхгүй. Jest/Supertest тест хялбар.
@@ -21,7 +21,7 @@
 
 ## Session 2: Архитектур диаграм
 
-**Би:** Mini library-д ямар layer бүтэц тохиромжтой вэ? Router→Controller→Service→DB pattern ашиглах уу?
+**Би:** Mini library-д ямар layer бүтэц тохиромжтойг мөн Router→Controller→Service→DB pattern ашиглах нь зөв үү?
 
 **Claude (товч):**
 - 3-layer architecture (Router/Controller/Service) жижиг проектод сайн — test isolation хялбар болно.
