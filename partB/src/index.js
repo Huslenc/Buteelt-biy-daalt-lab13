@@ -8,7 +8,9 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-app.use('/api/v1/books', require('./routes/books'));
+app.use('/api/v1/books',   require('./routes/books'));
+app.use('/api/v1/members', require('./routes/members'));
+app.use('/api/v1/loans',   require('./routes/loans'));
 
 // Health check
 app.get('/api/v1/health', (req, res) => {
