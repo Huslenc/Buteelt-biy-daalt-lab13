@@ -8,7 +8,7 @@
 
 ## Scope
 
-### In Scope ✅
+### In Scope 
 - **Book Inventory** — ном нэмэх, засах, устгах, хайх (title, author, ISBN, genre)
 - **Member Management** — гишүүн бүртгэл, CRUD, хайлт
 - **Loan Tracking** — ном зээлэх, буцаах, хугацаа дууссан хянах
@@ -16,7 +16,7 @@
 - **REST API** — Express.js, OpenAPI 3.0 spec
 - **Minimal Frontend** — React 18
 
-### Out of Scope ❌
+### Out of Scope 
 - Authentication / login system
 - Email / SMS notification
 - Fine calculation (торгууль)
